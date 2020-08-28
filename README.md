@@ -30,7 +30,7 @@ All data files are available as Excel spreadsheets in the `data/` subdirectory. 
 
 ## Permanent contact about this data
 
-Rebeca L. Acabchuk, University of Connecticut,  Institute for Collaboration on Health, Intervention, & Policy, Department of Psychological Sciences, United States
+Rebeca L. Acabchuk, University of Connecticut, Institute for Collaboration on Health, Intervention, & Policy, Department of Psychological Sciences, United States. ORCID: [0000-0001-8254-2396](https://orcid.org/0000-0001-8254-2396)
 
 __NEED ORCID FOR BECKY__
 
