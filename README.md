@@ -28,7 +28,7 @@ All data files are available as Excel spreadsheets in the `data/` subdirectory. 
   * `Combined_data.xlsx` was created by merging the `RECAP_data.xlsx` and `External_data.xlsx`, and is used as the complete dataset from which composite variables are created using the `create_composite_variables.do` STATA do file. The crosswalk between the individual measures and the composite variables are described in more detail in `Stata Variable Crosswalk.xlsx`
   * `Debriefing Interview - Wave 1.xlsx`: contains qualitative reponses from "Wave 1" participants to the debriefing interview questions. _Note: the interview was only done for Wave 1 participants._
 
-## Permanent contact (include ORCID)
+## Permanent contact about this data
 
 Rebeca L. Acabchuk, University of Connecticut,  Institute for Collaboration on Health, Intervention, & Policy, Department of Psychological Sciences, United States
 
