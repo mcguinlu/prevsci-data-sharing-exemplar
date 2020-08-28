@@ -39,4 +39,4 @@ __NEED ORCID FOR BECKY__
 This study was prospectively registered on 17 January 2018 on [clinicaltrials.gov](https://clinicaltrials.gov/ct2/show/NCT03402009) [NCT03402009].
 
 ## Licence
-The materials in this repository are licensed under the Creative Commons Attribution 4.0 (CC-BY-4.0) International. The full license file can be found [here](/license.txt) 
+The materials in this repository are licensed under the Creative Commons Attribution 4.0 (CC-BY-4.0) International. The full license file can be found [here](/License.txt).
