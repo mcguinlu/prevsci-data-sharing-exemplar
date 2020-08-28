@@ -1,7 +1,7 @@
 * Set change to directory containing data
-* cd
+* cd 
 
-import excel "muse_data_19aug2020.xlsx", sheet("stata") cellrange(A1:AJS141) firstrow clear
+import excel "Combined_data.xlsx", cellrange(A1:AJS141) firstrow clear
 
 *STATA File for Muse Dataset**
 
@@ -588,9 +588,4 @@ gen pss2= (pss_1_v2 + pss_2_v2 + pss_3_v2 + pss_4_v2 + pss_5_v2 + pss_6_v2 + pss
 sum pss2
 sum pss2 if group==0
 sum pss2 if group==1
-
-
-
-log close
-
 
