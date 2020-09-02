@@ -19,6 +19,8 @@ __Outcomes__ - Outcome measures included those related to Personality, Stress, D
 
 __Time__ - 4 week intervention followed by post-intervention surveys (1-, 6- and 12-months). See `Study Timeline.xlsx` for more details on the tasks performed and the data collected at each timepoint.
 
+__Study Design__ - randomized controlled trial with two intervention groups
+
 ## Data source files
 
 All data files are available as Excel spreadsheets in the `data/` subdirectory. The relationships between each data file, and between data files and other information contained in this repository, are described below:
