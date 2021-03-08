@@ -36,8 +36,6 @@ In addition, we provided a work example of programmatically creating a list of k
 
 Rebeca L. Acabchuk, University of Connecticut, Institute for Collaboration on Health, Intervention, & Policy, Department of Psychological Sciences, United States. ORCID: [0000-0001-8254-2396](https://orcid.org/0000-0001-8254-2396)
 
-__NEED ORCID FOR BECKY__
-
 ## Registration
 
 This study was prospectively registered on 17 January 2018 on [clinicaltrials.gov](https://clinicaltrials.gov/ct2/show/NCT03402009) [NCT03402009].
